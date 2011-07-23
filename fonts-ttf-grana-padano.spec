@@ -22,8 +22,7 @@ Grana Padano is a medium-weight upright sans-serif font in roughly the same fami
 %build
 for sfdfile in *.sfd
 do
-  fontforge -c "Open(\"$sfdfile\")
-    Generate(\"$sfdfile\":r + \".ttf\")"
+  fontforge -lang=ff -c "Open(\"./$sfdfile\"); Generate(\"./$sfdfile\":r + \".ttf\")"
 done
 
 %install
