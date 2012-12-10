@@ -52,3 +52,10 @@ ttmkfdir %{buildroot}%{_xfontdir}/TTF/grana-padano > %{buildroot}%{_xfontdir}/TT
 
 
 
+
+
+%changelog
+* Sat Jul 23 2011 Sergey Zhemoitel <serg@mandriva.org> 20100429-1mdv2012.0
++ Revision: 691277
+- imported package fonts-ttf-grana-padano
+
