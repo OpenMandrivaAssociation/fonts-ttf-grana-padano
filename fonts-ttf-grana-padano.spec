@@ -14,7 +14,7 @@ BuildRequires:	fontforge
 
 %description
 Grana Padano is a medium-weight upright sans-serif font in roughly the same
-family as Apple Computer’s historic Chicago font. It has support for Latin and
+family as Apple Computer's historic Chicago font. It has support for Latin and
 Cyrillic character sets, containing sufficient characters for Latin-0 through
 Latin-10, as well as support for Vietnamese and all major Slavic
 Cyrillic-based languages.
