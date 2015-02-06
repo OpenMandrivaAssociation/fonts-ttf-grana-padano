@@ -3,7 +3,7 @@
 Summary:	medium-weight upright sans-serif font
 Name:		fonts-ttf-grana-padano
 Version:	20100429
-Release:	3
+Release:	4
 License:	OFL
 Group:		System/Fonts/True type
 Url:		http://io.debian.net/~danielj/
