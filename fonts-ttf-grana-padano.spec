@@ -6,7 +6,7 @@ Version:	20100429
 Release:	4
 License:	OFL
 Group:		System/Fonts/True type
-Url:		http://io.debian.net/~danielj/
+Url:		https://io.debian.net/~danielj/
 Source0:	http://io.debian.net/~danielj/grana-padano/%{fontname}-%{version}.zip
 BuildArch:	noarch
 BuildRequires:	freetype-tools
